@@ -3,13 +3,9 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
   <classes>
-  <class name="com.assignment.Test1"></class>
-  
-  <class name="com.assignment.DataProvider"></class>
+    <class name="com.assignment.DataProvider"></class>
    <class name="com.assignment.POM"></class>
     <class name="com.assignment.PageFactoryImplementation"></class>
-    
-    
-  </classes>
+    </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
